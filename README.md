@@ -15,7 +15,7 @@ Moduły do Phyton:
 * opencv (bądź cv/cv2)
 
 # Użycie 
-1. Do głównego folderu umieść własny wideo z rozszerzeniem .mp4 i nazwać go "film"
+1. Do głównego folderu umieść własny plik wideo z rozszerzeniem .mp4 i nazwać go "film"
 2. Utwórz folder "frames"
 3. Z poziomu VS code (Visual Studio Code) uruchom film_na_klatki.py
 4. Przenieś wszystkie wygenerowane klatki do folderu frames
