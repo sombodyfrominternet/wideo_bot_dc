@@ -5,14 +5,14 @@ Bot na discorda przetwarzający film na klatki, a następnie klatki na wiadomoś
 
 # Wymagania
 Oprogramowanie:
--Python 3.9+ lub nowszy
--Visual Studio Code
+* Python 3.9+ lub nowszy
+* Visual Studio Code
 
 Moduły do Phyton:
--discord
--time
--pillow
--opencv (bądź cv/cv2)
+* discord
+* time
+* pillow
+* opencv (bądź cv/cv2)
 
 # Użycie 
 1. Do głównego folderu umieść własny wideo z rozszerzeniem .mp4 i nazwać go "film"
@@ -24,13 +24,13 @@ Moduły do Phyton:
 
 # Autorzy
 Zmodyfikował i spolszczył:
--White Terraria (youtube.com/channel/UC2bVJ-dHcpOA1P5FWKkjzZg)
+* White Terraria (youtube.com/channel/UC2bVJ-dHcpOA1P5FWKkjzZg)
 
 Autor originału:
--NPCat (youtube.com/channel/UCFf2azJHYACCUIrt-a0LP2g)
+* NPCat (youtube.com/channel/UCFf2azJHYACCUIrt-a0LP2g)
 
 Link do originału:
--github.com/NPCat/bad-apple-bot
+* github.com/NPCat/bad-apple-bot
 
 # Problemy, propozycje i poprawki proszę zgłaszać w zakładce "Issules"
 
