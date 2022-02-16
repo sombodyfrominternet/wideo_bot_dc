@@ -4,6 +4,7 @@
 Bot na discorda przetwarzający film na klatki, a następnie klatki na wiadomości 
 
 ![test](https://img.shields.io/badge/Status-Wspierane-brightgreen?style=for-the-badge&logo=appveyor)
+![jęzuk](https://img.shields.io/badge/J%C4%99zyk-Python-blue?style=for-the-badge&logo=appveyor)
 
 # Wymagania
 Oprogramowanie:
