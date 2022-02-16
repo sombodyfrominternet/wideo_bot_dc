@@ -10,9 +10,13 @@ Oprogramowanie:
 
 Moduły do Phyton:
 * discord
-* time
 * pillow
 * opencv (bądź cv/cv2)
+
+Instalacja modułów:
+```
+pip install -r requirements.txt
+```
 
 # Użycie 
 1. Do głównego folderu umieść własny plik wideo z rozszerzeniem .mp4 i nazwać go "film"
