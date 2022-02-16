@@ -5,8 +5,8 @@ Bot na discorda przetwarzający film na klatki, a następnie klatki na wiadomoś
 
 # Wymagania
 Oprogramowanie:
-* Python 3.9+ lub nowszy
-* Visual Studio Code
+* Python 3.10.X lub nowszy
+* (opcjonalnie) Visual Studio Code/VSCodium
 
 Moduły do Phyton:
 * discord
@@ -21,7 +21,10 @@ pip install -r requirements.txt
 # Użycie 
 1. Do głównego folderu umieść własny plik wideo z rozszerzeniem .mp4 i nazwać go "film"
 2. Utwórz folder "frames"
-3. Z poziomu VS code (Visual Studio Code) uruchom film_na_klatki.py
+3. Uruchom film_na_klatki.py
+```
+python3 film_na_klatki.py
+```
 4. Przenieś wszystkie wygenerowane klatki do folderu frames
 5. Otwórz bot_discord.py i edytuj wartości według podanych komentarzy
 6. Uruchom bot_discord.py
